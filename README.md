@@ -2,11 +2,10 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Google Apps Script](https://img.shields.io/badge/Google%20Apps%20Script-4285F4?logo=google&logoColor=white)](https://script.google.com)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/yourusername/gmail-cleanup/graphs/commit-activity)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/Janith-Nilan/gmail-cleanup/graphs/commit-activity)
+[![GitHub release](https://img.shields.io/github/release/Janith-Nilan/gmail-cleanup.svg)](https://github.com/Janith-Nilan/gmail-cleanup/releases)
 
 **Automate bulk deletion of emails in Gmail using Google Apps Script. Delete thousands of emails from unwanted senders with a simple spreadsheet interface.**
-
-![Gmail Cleanup Demo](docs/images/demo-preview.png)
 
 ---
 
@@ -552,9 +551,9 @@ const DEBUG = true;
 ### Getting Help
 
 1. Check [Troubleshooting Guide](docs/TROUBLESHOOTING.md)
-2. Review [Log sheet](#) in your spreadsheet
-3. Check Apps Script [Execution log](#)
-4. Open an [issue](https://github.com/yourusername/gmail-cleanup/issues)
+2. Review Log sheet in your spreadsheet
+3. Check Apps Script Execution log (View → Executions)
+4. Open an [issue](https://github.com/Janith-Nilan/gmail-cleanup/issues)
 
 ---
 
@@ -639,8 +638,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Support
 
 - **Documentation**: [docs/](docs/)
-- **Issues**: [GitHub Issues](https://github.com/yourusername/gmail-cleanup/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/gmail-cleanup/discussions)
+- **Issues**: [GitHub Issues](https://github.com/Janith-Nilan/gmail-cleanup/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/Janith-Nilan/gmail-cleanup/discussions)
 
 ---
 
@@ -657,10 +656,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📈 Project Stats
 
-![GitHub stars](https://img.shields.io/github/stars/yourusername/gmail-cleanup?style=social)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/gmail-cleanup?style=social)
-![GitHub issues](https://img.shields.io/github/issues/yourusername/gmail-cleanup)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/yourusername/gmail-cleanup)
+![GitHub stars](https://img.shields.io/github/stars/Janith-Nilan/gmail-cleanup?style=social)
+![GitHub forks](https://img.shields.io/github/forks/Janith-Nilan/gmail-cleanup?style=social)
+![GitHub issues](https://img.shields.io/github/issues/Janith-Nilan/gmail-cleanup)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/Janith-Nilan/gmail-cleanup)
 
 ---
 
