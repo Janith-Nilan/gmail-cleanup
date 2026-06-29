@@ -1,0 +1,37 @@
+# Sensitive data
+*.csv.backup
+*_actual_senders.csv
+*_personal*.csv
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+temp/
+tmp/
+
+# Google Apps Script specific
+.clasp.json
+.claspignore
+
+# Personal notes
+notes/
+personal/
+test_data/
+
+# Backup files
+*.bak
+backup/
